@@ -4,7 +4,7 @@ package io.eugene;
  * Hello world!
  *
  */
-public class App1
+public class Lab1
 {
     public static int[] sumArrays(int[] a, int[] b) {
         if (a.length != b.length) {
@@ -43,10 +43,6 @@ public class App1
     }
 
 
-
-
-    public static void main( String[] args )
-    {
-
+    public static void main(String[] args) throws Exception {
     }
 }

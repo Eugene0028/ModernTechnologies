@@ -1,6 +1,6 @@
 package io.eugene;
 
-public class ArrayUtils {
+public class Lab2 {
 
     // Поиск максимума из трех чисел
     public static double maxOfThree(double a, double b, double c) {
