@@ -1,4 +1,4 @@
-package io.eugene;
+package io.eugene.first3labs;
 
 import java.util.Collection;
 import java.util.Collections;
@@ -22,7 +22,7 @@ public class Lab3 {
 //        }
 //
 //        return Integer.parseInt(result.toString());
-//
+
         return String
                 .valueOf(a)
                 .chars()

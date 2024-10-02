@@ -1,6 +1,8 @@
-package io.eugene;
+package io.eugene.first3labs;
 
 import static org.junit.jupiter.api.Assertions.*;
+
+import io.eugene.first3labs.Lab1;
 import org.junit.jupiter.api.Test;
 
 public class Lab1Test {

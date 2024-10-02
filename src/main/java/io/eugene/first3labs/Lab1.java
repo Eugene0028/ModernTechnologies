@@ -1,4 +1,4 @@
-package io.eugene;
+package io.eugene.first3labs;
 
 /**
  * Hello world!

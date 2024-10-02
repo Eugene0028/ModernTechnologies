@@ -1,5 +1,6 @@
-package io.eugene;
+package io.eugene.first3labs;
 
+import io.eugene.first3labs.Lab3;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -37,7 +38,7 @@ class Lab3Test {
                 {7,13,9}
         };
         int expected = 20;
-        int result = Lab3.getSumOfArray(A);
-        assertEquals(expected, result);
+        int actual = Lab3.getSumOfArray(A);
+        assertEquals(expected, actual);
     }
 }
